@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.doc
+*.docx
+*.xlsx
+*_/file
+/.quarto/
+**/*.quarto_ipynb
