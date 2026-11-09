@@ -9,3 +9,4 @@
 *_/file
 /.quarto/
 **/*.quarto_ipynb
+data*/
